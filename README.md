@@ -1,1 +1,1 @@
-# This Poject for Rightwear.
+# This Project for Rightwear.
